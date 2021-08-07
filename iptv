@@ -46,38 +46,3 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1,Xinhe
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1,IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1,CINEMAX
-http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
-#EXTINF:-1,Sky ARTRS 2
-http://188.227.189.18:8082/TV4250
-#EXTINF:-1,Sky Movies Action & Adventure
-http://188.227.189.18:8082/TV4245
-#EXTINF:-1,Sky Movies Comedy
-http://188.227.189.18:8082/TV4246
-#EXTINF:-1,Sky Movies Disney
-http://188.227.189.18:8082/TV4247
-#EXTINF:-1,Sky Movies Family
-http://188.227.189.18:8082/TV4248
-#EXTINF:-1,Sky Movies Premiere
-http://188.227.189.18:8082/TV4251
-#EXTINF:-1,Sky Movies Premiere+
-http://188.227.189.18:8082/TV4252
-#EXTINF:-1,Sky Movies SciFi
-http://188.227.189.18:8082/TV4249
-#EXTINF:-1,Sky Sky Movies Select
-http://188.227.189.18:8082/TV4254
-#EXTINF:-1,Fox 1 HD (US)
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
-#EXTINF:-1,Fox Action (US)
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-#EXTINF:-1,FOX CINEMA (US)
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-#EXTINF:-1,FOX CLASSICS (US)
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-#EXTINF:-1,Fox Family (US)
-http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
-#EXTINF:-1,FOX MOVIES HD (US)
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-#EXTINF:-1,FOX MOVIES HD (US)
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
